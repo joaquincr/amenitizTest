@@ -1,0 +1,12 @@
+{"event_timestamp": "2024-01-11T10:00:00Z", "event_type": "view", "feature_name": "board", "customer_id": "cust_001", "metadata": { "device": "desktop"}}
+{"event_timestamp": "2024-01-15T11:00:00Z", "event_type": "click", "feature_name": "backlog", "customer_id": "cust_001", "metadata": { "device": "desktop"}}
+{"event_timestamp": "2024-01-22T14:00:00Z", "event_type": "view", "feature_name": "reports", "customer_id": "cust_002", "metadata": { "device": "mobile"}}
+{"event_timestamp": "2024-01-25T15:00:00Z", "event_type": "click", "feature_name": "timeline", "customer_id": "cust_002", "metadata": { "device": "mobile"}}
+{"event_timestamp": "2024-01-26T16:00:00Z", "event_type": "view", "feature_name": "reports", "customer_id": "cust_002", "metadata": { "device": "mobile"}}
+{"event_timestamp": "2024-02-06T09:00:00Z", "event_type": "view", "feature_name": "board", "customer_id": "cust_003", "metadata": { "device": "desktop"}}
+{"event_timestamp": "2024-02-18T18:00:00Z", "event_type": "view", "feature_name": "reports", "customer_id": "cust_004", "metadata": { "device": "desktop"}}
+{"event_timestamp": "2024-02-20T19:00:00Z", "event_type": "click", "feature_name": "integrations", "customer_id": "cust_004", "metadata": { "device": "desktop"}}
+{"event_timestamp": "2024-03-15T10:00:00Z", "event_type": "view", "feature_name": "board", "customer_id": "cust_006", "metadata": { "device": "desktop"}}
+{"event_timestamp": "2024-03-18T11:00:00Z", "event_type": "click", "feature_name": "backlog", "customer_id": "cust_006", "metadata": { "device": "desktop"}}
+{"event_timestamp": "2024-03-20T12:00:00Z", "event_type": "view", "feature_name": "timeline", "customer_id": "cust_006", "metadata": { "device": "mobile"}}
+{"event_timestamp": "2024-04-01T14:00:00Z", "event_type": "view", "feature_name": "reports", "customer_id": "cust_001", "metadata": { "device": "desktop"}}
