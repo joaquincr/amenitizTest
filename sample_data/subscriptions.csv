@@ -1,0 +1,7 @@
+subscription_id,status,start_date,end_date,currency,amount,period,plan_name
+sub_001,active,2024-01-10,,USD,50,monthly,pro
+sub_002,active,2024-01-20,,USD,500,monthly,enterprise
+sub_003,active,2024-02-05,,USD,2400,yearly,standard
+sub_004,cancelled,2024-02-15,2024-03-15,USD,500,monthly,enterprise
+sub_005,active,2024-03-01,,USD,50,monthly,pro
+sub_006,active,2024-03-12,,USD,100,monthly,pro

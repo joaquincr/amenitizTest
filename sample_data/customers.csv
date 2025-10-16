@@ -1,0 +1,7 @@
+customer_id,company_name,country,address,signup_date,subscription_id
+cust_001,Innovate Inc.,USA,"123 Tech Lane, CA",2024-01-10,sub_001
+cust_002,Solutions Co.,UK,"456 Business Park, London",2024-01-20,sub_002
+cust_003,Data Corp.,Germany,"789 Data Street, Berlin",2024-02-05,sub_003
+cust_004,Synergy LLC,USA,"101 Vision Ave, NY",2024-02-15,sub_004
+cust_005,Connectix,France,"234 Bridge Way, Paris",2024-03-01,sub_005
+cust_006,Momentum Ltd.,USA,"567 Speed St, TX",2024-03-12,sub_006
